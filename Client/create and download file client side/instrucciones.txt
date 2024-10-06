@@ -1,0 +1,2 @@
+Incluir en el proyecto y cargar antes que todos los scripts.
+llamar a download(name, data) para crear el archivo.
